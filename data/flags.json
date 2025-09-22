@@ -1,0 +1,12 @@
+[
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "image": "/flags/br.svg"
+  },
+  {
+    "country": "Estados Unidos",
+    "code": "US",
+    "image": "/flags/us.svg"
+  }
+]
